@@ -11,4 +11,4 @@ and they believe that the average duration of movies has been declining.
 We Will be Analysing this case Study.
 
 
-![Netflix](/.netflix.jpg)
+![netflix](netflix.jpg)
